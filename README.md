@@ -57,7 +57,7 @@ _This bad boy works flawlessly. (when using "joe")_
 
 ## Support and contact details
 
-_example@you.com_
+_For questions, comments or concerns, email me at calvinp003@gmail.com_
 
 ## Technologies Used
 
