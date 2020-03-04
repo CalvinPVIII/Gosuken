@@ -81,16 +81,6 @@ module FightingGame
       @playerchoose.play
     end
 
-    def character3!
-      @tiles = Tileset.new(@window, 'poolio', self)
-      @master_y == 320
-      @scale = 5
-      @name = 'poolio'
-      @playerchoose.play
-    end
-
-
-
     def character4!
       @tiles = Tileset.new(@window, 'rugal', self)
       @scale = 1
@@ -104,13 +94,6 @@ module FightingGame
       @master_y = 300
       @scale = 3
       @name = 'ken'
-      @playerchoose.play
-    end
-
-    def character6!
-      @tiles = Tileset.new(@window, 'crimsaur', self)
-      @scale = 5
-      @name = 'crimsaur'
       @playerchoose.play
     end
 
